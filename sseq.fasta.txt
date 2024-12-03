@@ -1,0 +1,4 @@
+>Rosalind_14
+ACGTACGTGACG
+>Rosaling_18
+GTA
